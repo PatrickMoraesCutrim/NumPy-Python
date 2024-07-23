@@ -1,8 +1,8 @@
-# NumPy-an-lise-num-rica-eficiente-com-Python
+# NumPy-Python [Study]
 
-* Aprenda a ler e escrever dados usando
-* Numpy Crie e manipule arrays multidimensionais
-* Saiba como gerar números aleatórios com a biblioteca Numpy
-* Descubra como utilizar seeds para trabalhar com aleatoriedade
-* Faça o cálculo de regressão linear com Numpy
-* Explore funções de agregação na Numpy
+* Lendo e escrevendo no Arquivo
+* Criando e manipulando arrays multidimensionais
+* Gerando números aleatórios com a biblioteca Numpy
+* Ultilizando seeds para trabalhar com aleatoriedade
+* Fazendo cálculo de regressão linear com Numpy
+* Funções de agregaçãocom Numpy
